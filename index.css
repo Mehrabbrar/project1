@@ -1,0 +1,40 @@
+body{ 
+    background-image: url(fitness.JPG);
+    background-color:lightcyan
+}
+ul li a{color:white;
+    color: white;
+}
+body {
+    background-image: url(Wallpaper.jpg);
+    color: white;
+}
+ul li a{color: #000;
+color: beige;
+}
+
+h1, h2, h3{
+    text-align: left
+    font-family: 'Gloria Hallelujah', cursive;
+    text-decoration: underline;
+}
+
+p {
+    padding: 10px;
+    text-align: left;
+}
+
+header {
+    background-color:lightblue
+}
+
+[type=text], [type=email] {
+    padding: 5px;
+}
+
+.introduction {
+    font-size: 50px;
+    color: whitesmoke;
+}
+
+</html>
